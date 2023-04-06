@@ -16,6 +16,7 @@ body {
 a {
     color: #fff;
     text-decoration: none;
+    word-wrap: break-word;
 }
 
 a:hover {
@@ -51,9 +52,6 @@ a:hover {
     bottom: 0;
     right: 0;
     transform: rotate(180deg);
-}
-a{
-    word-wrap: break-word;
 }
 
 @media only screen and (min-width: 768px) {
