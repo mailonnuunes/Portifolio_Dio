@@ -1,0 +1,69 @@
+{
+  "name": "Mailon Azevedo",
+  "photo": "https://raw.githubusercontent.com/mailonnuunes/Portifolio_Dio/main/assets/img/my_photo.jpg",
+  "job": "Analista de Suporte T.I",
+  "location": "São Paulo - SP",
+  "phone": "(11) 99382-3680",
+  "email": "mailonnunes2016@gmail.com",
+  "skills": {
+    "hardSkills": [
+      {
+        "name": "Javascript",
+        "logo": "https://raw.githubusercontent.com/mailonnuunes/Portifolio_Dio/main/data/imgs/js.png"
+      },
+      {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/mailonnuunes/Portifolio_Dio/main/data/imgs/react.png"
+      },
+      {
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/mailonnuunes/Portifolio_Dio/main/data/imgs/angular.png"
+      },
+      {
+        "name": "NodeJs",
+        "logo": "https://raw.githubusercontent.com/mailonnuunes/Portifolio_Dio/main/data/imgs/nodejs.png"
+      }
+
+    ],
+    "softSkills": [
+      "Empatia",
+      "Liderança",
+      "Trabalho em equipe",
+      "Flexibilidade",
+      "Organização"
+    ]
+  },
+  "languages": [
+    "Português BR (nativo)",
+    "Inglês (intermediário)"
+  ],
+  "portfolio": [
+    {
+      "name": "Site de uma cafeteria feito com Bootstrap",
+      "url": "https://github.com/mailonnuunes/Site_Cafeteria_Bootstrap",
+      "github": true
+    },
+    {
+      "name": "Recriação do site discord com Html e Css",
+      "url": "https://github.com/mailonnuunes/Site_Discord_com_HTML_e_CSS",
+      "github": true
+    }
+  ],
+  "professionalExperience": [
+    {
+      "name": "Analista de infraestrutura de TI / TCS",
+      "period": "ago/2021 - até o momento",
+      "description": "Atuação na gestão do service desk em cliente PepsiCo América Latina.\n Garantir a entrega dos serviços contratados – Escopo, SLA, catálogo serviços, relatórios e etc.\nGerenciamento de atividades técnicas (incidentes, mudanças, problemas, crises)\n Melhoramento de processos com base em: ITIL, PMI, Kanban, etc.\n Ministração de reuniões e apresentações técnicas/processo no cliente.\n elaboração e análise de relatórios de serviços (Book, relatórios de incidentes, procedimentos)."
+    },
+    {
+      "name": "IT Enterprise Services Analyst / Bayer",
+      "period": "mar/2020 - dez/2020",
+      "description": "Suporte a projetos e demandas de TI, gestão de operação para diversos serviços de suporte como,\n service desk,suporte onsite, despesas de telecom, gestão de ativos.Gerenciamento\n de incidentes, problemas e conhecimento."
+    },
+    {
+      "name": "IT Enterprise Services Apprentice / Bayer",
+      "period": "mar/2019 - fev/2020",
+      "description": "Suporte a projetos e demandas de TI, gestão de operação para diversos serviços de suporte como\n service desk, suporte onsite, despesas de telecom, gestão de ativos.Gerenciamento de incidentes, problemas e\nconhecimento"
+    }
+  ]
+}
